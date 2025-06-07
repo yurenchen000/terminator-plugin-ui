@@ -23,4 +23,11 @@ https://gnome-terminator.readthedocs.io/en/latest/plugins.html
 <br>
 
 Preview
+
 ![configration_preview.png](https://i.imgur.com/fpEuwBd.png)
+
+<br>
+
+## Other Plugins
+
+[![related-repos](https://res.ez2.fun/svg/repos-terminator_plugin.svg)](https://github.com/yurenchen000/yurenchen000/blob/main/repos.md#terminator-plugins)
